@@ -7,6 +7,7 @@ class Adder():
         self.val1 = val1
         self.val2 = val2
 
+        # comment above getSum
     def getSum(self):
         return self.val1 + self.val2
 
