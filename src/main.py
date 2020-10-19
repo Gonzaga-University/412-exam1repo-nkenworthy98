@@ -12,6 +12,7 @@ class Adder():
         return self.val1 + self.val2
 
 
+    # comment above main
 if __name__ == "__main__":
     print("Starting program")
 
